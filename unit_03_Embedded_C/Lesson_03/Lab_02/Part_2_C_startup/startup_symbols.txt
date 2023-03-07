@@ -1,0 +1,15 @@
+         U _E_bss
+         U _E_data
+         U _E_text
+         U _S_bss
+         U _S_data
+         U _stack_top
+00000000 W Bus_fault
+00000000 T Default_Handler
+00000000 W H_fault_Handler
+         U main
+00000000 W MM_fault_Handler
+00000000 W NMI_Handler
+0000000c T Rest_Handler
+00000000 W Usage_fault_Handler
+00000000 D vectors
